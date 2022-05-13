@@ -94,6 +94,26 @@ Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency.
  
 # Software Requirement
 * **STM32 IDE**
+
+# COMPONENTS AND SUPPLIES:
+* STM32F407 Discovery Board
+1) Push Button
+2) LEDs
+3) Resistors
+4) Power Supply
+# ADVANTAGES:
+1) To save money during wet seasons, turn off the irrigation system.
+2)  Electricity bills are lowered as a consequence.Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
+3)  As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed.
+4)  It is quite simple to use.
+5)  As a consequence, less energy is consumed.
+6)  Rain sensor-based systems are extremely simple to install.
+7)  Individual rain sensors are fairly inexpensive.
+# Disadvantages:
+1) When water falls squarely on the rain sensor, the mechanism activates.
+2) The entire system cost rises when more components, including a rain sensor, are required.
+3) Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
+
 # High Level Requirements
 
 * HLR1---> It will start the car
