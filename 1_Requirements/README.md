@@ -6,12 +6,16 @@
 
 ---
 
-# Identifying features
-1) When the button is pressed once the car will start --->The iginition key postion at **ACC**
-2) When the button is pressed again the wiper will start ---> The Wiper **ON**
-3) When the button is pressed again the wiper will off ---> The Wiper **OFF**
-4) When the button is pressed thrice the car will stop --->The iginition key position at **LOCK**
-
+ FEATURES
+---
+* Blue, green and orange LED'S comes ON and OFF alternately for set frequency.
+* In state A---> RED will be ON
+* 
+1) It shall lock the car when the button is pressed once
+2) It shall open the car when the button is pressed twice
+3) It shall wiper on and it moves clock wise direction and when the button is pressed thrice
+4) It shall wiper off and it moves anti clock wise direction and when the button is pressed four times
+5) It shall wiper complete one cycle when the button is pressed five times.
 ---
 # SWOT ANALYSIS
 ---
