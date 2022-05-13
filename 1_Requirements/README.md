@@ -59,7 +59,8 @@
 * When new command is given without completing the current command it will not take current command
 ---
  
-
+# Software Requirement
+* **STM32 IDE**
 # High Level Requirements
 
 * HLR1---> It will start the car
