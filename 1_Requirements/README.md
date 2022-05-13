@@ -3,14 +3,19 @@
 # Introduction
  1) This Project is an **Wiper control system** , a wiper control system for an automotive wiper controls the operational speed of a wiper in accordance with rain conditions.It useful in the automotive unit the main purpose of the system is to clean the windscreen sufficiently to provide suitable visibility at all times.
  2) We are trying to simulate this project on **stmcube 32 IDE**
+ 
 
 ---
 
  FEATURES
 ---
-* Blue, green and orange LED'S comes ON and OFF alternately for set frequency.
-* In state A---> RED will be ON
-* 
+ * When the button is pressed once the car will **start**--->The ignition key postion at **ACC**
+ * When the button is pressed again the wiper will **start**--->Wiper **On**
+ * When the button is pressed again the wiper will **off**--->Wiper **Off**
+ * When the button is pressed thrice the car will **sto**p--->The ignition key position at **Lock**
+
+# Working principle
+Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency.  
 1) It shall lock the car when the button is pressed once
 2) It shall open the car when the button is pressed twice
 3) It shall wiper on and it moves clock wise direction and when the button is pressed thrice
