@@ -132,13 +132,18 @@ Blue, Green and Orange LEDs, Come on and OFF alternately for set frequency.
 * LLR5--->If the User Button is pressed FIFTH times, the red LED will be off | 
 
 ## OUTPUT
-1) User button is hold for two seconds,the red LED is on![OUTPUT 1](https://user-images.githubusercontent.com/101281756/168282534-b0d06215-88b5-43aa-acc4-cbd8bceafda7.png)
+1) User button is hold for two seconds,the red LED is on
+![OUTPUT 1](https://user-images.githubusercontent.com/101281756/168282534-b0d06215-88b5-43aa-acc4-cbd8bceafda7.png)
 
-2) Wiper Speed is LOW![OUTPUT 2](https://user-images.githubusercontent.com/101281756/168282574-5062a6b9-4ca3-431f-a947-4845e4ad74f5.png)
+2) Wiper Speed is LOW
+![OUTPUT 2](https://user-images.githubusercontent.com/101281756/168282574-5062a6b9-4ca3-431f-a947-4845e4ad74f5.png)
 
-3) Wiper Speed is MEDIUM![OUTPUT 3](https://user-images.githubusercontent.com/101281756/168282691-5c97e5dd-c712-42fb-acc6-83d63fe73c1c.png)
+3) Wiper Speed is MEDIUM
+ ![OUTPUT 3](https://user-images.githubusercontent.com/101281756/168282691-5c97e5dd-c712-42fb-acc6-83d63fe73c1c.png)
 
-4) Wiper Speed is HIGH ![OUTPUT 4](https://user-images.githubusercontent.com/101281756/168282728-081f1ff2-729c-4e41-95d1-6f5a29178010.png)
+4) Wiper Speed is HIGH
+![OUTPUT 4](https://user-images.githubusercontent.com/101281756/168282728-081f1ff2-729c-4e41-95d1-6f5a29178010.png)
 
-5) User button is pressed and hold for 2 seconds, the red LED is off![OUTPUT 5](https://user-images.githubusercontent.com/101281756/168282767-1a6ebe61-e0e6-4fd0-a4fb-9ea048574235.png)
+5) User button is pressed and hold for 2 seconds, the red LED is off
+![OUTPUT 5](https://user-images.githubusercontent.com/101281756/168282767-1a6ebe61-e0e6-4fd0-a4fb-9ea048574235.png)
 
