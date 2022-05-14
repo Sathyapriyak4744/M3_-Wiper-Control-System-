@@ -23,7 +23,16 @@ We are trying to simulate this project on stmcube 32 IDE
  ## Code Quality
 ## GitHub Actions
 # Analysis
+[![Analysis](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml)
  # cppcheck action
+ [![cppcheck-action](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/cppcheck-action.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/cppcheck-action.yml)
  # Build-Windows
+ [![Build CI - Windows](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Windows.yml)
+ # Build-Linux
+ [![Build CI -Linux](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Linux.yml)
  # Valgrind
+ [![Valgrind](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Valgrind.yml)
  #CI Passing
+ [![CI](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/CI.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/CI.yml)
+# Gitinspector
+[![Contribution Check - Git Inspector](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/git_inspector.yml)
