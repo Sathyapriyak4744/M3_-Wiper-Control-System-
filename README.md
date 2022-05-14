@@ -21,11 +21,12 @@ We are trying to simulate this project on stmcube 32 IDE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/58bc8e1a901d4cd1ae974b0834a29a30)](https://www.codacy.com/gh/Sathyapriyak4744/M3_-Wiper-Control-System-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sathyapriyak4744/M3_-Wiper-Control-System-&amp;utm_campaign=Badge_Grade)
 ## CODIGA STATIC ANALYSIS
 ## Code Quality Score
-https://api.codiga.io/project/33382/score/svg
+ 
 ![image](https://user-images.githubusercontent.com/101281756/168413822-b2ab06bd-f86e-4bfb-9cc9-9fc137d8be72.png)
 
 ## Code Grade
-https://api.codiga.io/project/33382/status/svg
+ ![image](https://user-images.githubusercontent.com/101281756/168413844-3c4f7c21-9c17-457a-b459-23fed0c61e7c.png)
+
 ## GitHub Actions
 # Analysis
 [![Analysis](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml)
