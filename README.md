@@ -22,6 +22,8 @@ We are trying to simulate this project on stmcube 32 IDE
 ## CODIGA STATIC ANALYSIS
 ## Code Quality Score
 https://api.codiga.io/project/33382/score/svg
+![image](https://user-images.githubusercontent.com/101281756/168413822-b2ab06bd-f86e-4bfb-9cc9-9fc137d8be72.png)
+
 ## Code Grade
 https://api.codiga.io/project/33382/status/svg
 ## GitHub Actions
