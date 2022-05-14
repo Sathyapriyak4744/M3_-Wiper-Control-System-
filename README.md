@@ -32,7 +32,7 @@ We are trying to simulate this project on stmcube 32 IDE
  [![Build CI -Linux](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Linux.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Build_Linux.yml)
  # Valgrind
  [![Valgrind](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Valgrind.yml)
- #CI Passing
+ # CI Passing
  [![CI](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/CI.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/CI.yml)
 # Gitinspector
 [![Contribution Check - Git Inspector](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/git_inspector.yml)
