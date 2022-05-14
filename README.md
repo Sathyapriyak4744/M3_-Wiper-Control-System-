@@ -17,10 +17,13 @@ We are trying to simulate this project on stmcube 32 IDE
 * 5_Report ---> Generated a detailed Report.
  
 ## BADGES
+## Codacy Badge
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/58bc8e1a901d4cd1ae974b0834a29a30)](https://www.codacy.com/gh/Sathyapriyak4744/M3_-Wiper-Control-System-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sathyapriyak4744/M3_-Wiper-Control-System-&amp;utm_campaign=Badge_Grade)
 ## CODIGA STATIC ANALYSIS
 ## Code Quality Score
+https://api.codiga.io/project/33382/score/svg
 ## Code Grade
- ## Code Quality
+https://api.codiga.io/project/33382/status/svg
 ## GitHub Actions
 # Analysis
 [![Analysis](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Sathyapriyak4744/M3_-Wiper-Control-System-/actions/workflows/Analysis.yml)
