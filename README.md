@@ -19,10 +19,11 @@ We are trying to simulate this project on stmcube 32 IDE
 ## BADGES
 ## CODIGA STATIC ANALYSIS
 ## Code Quality Score
-## code quality score
-
 ## Code Grade
-## code grade
-
-## Code Quality
+ ## Code Quality
 ## GitHub Actions
+# Analysis
+ # cppcheck action
+ # Build-Windows
+ # Valgrind
+ #CI Passing
